@@ -23,6 +23,8 @@ The dashboard enables decision-makers to quickly identify emission hotspots and 
 ---
 
 ## 📈 Dashboard Features
+🔗 **Live Dashboard (Databricks)**  
+Access: [https://dbc-xxxx.cloud.databricks.com/...](https://dbc-c4892db1-e490.cloud.databricks.com/dashboardsv3/01f0e2012aa119ccac6abba2bc71a0e3/published?o=7474651670639655)
 
 ### 🌍 Emissions per Location
 Visualizes CO₂e emissions geographically across the United States.
