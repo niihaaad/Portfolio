@@ -29,7 +29,7 @@ Access: [https://dbc-xxxx.cloud.databricks.com/...](https://dbc-c4892db1-e490.cl
 ### 🌍 Emissions per Location
 Visualizes CO₂e emissions geographically across the United States.
 
-![Emissions Map](images/Emissions Per Location.png)
+![Emissions Map](images/Emissions_Per_Location.png)
 
 ---
 
@@ -39,21 +39,21 @@ Analyzes the relationship between population size and emissions per person.
 **Key insight:**  
 Higher population areas tend to have **lower emissions per capita**, indicating economies of scale.
 
-![Emissions vs Population](images/Emission Vs. Population.png)
+![Emissions vs Population](images/Emission_Vs_Population.png)
 
 ---
 
 ### 🏭 Top Emitting Counties
 Highlights the counties with the highest total CO₂e emissions.
 
-![Top Counties](images/Total emissions by mTon of CO2e.png)
+![Top Counties](images/Total_emissions_by_mTon_of_CO2e.png)
 
 ---
 
 ### 🧮 Emissions Distribution by State
 Shows the percentage contribution of major states to total US emissions.
 
-![State Emissions](images/Emission Vs. Population.png)
+![State Emissions](images/Emission_Population.png)
 
 ---
 
