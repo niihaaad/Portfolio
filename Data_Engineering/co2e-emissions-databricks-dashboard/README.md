@@ -53,7 +53,7 @@ Highlights the counties with the highest total CO₂e emissions.
 ### 🧮 Emissions Distribution by State
 Shows the percentage contribution of major states to total US emissions.
 
-![State Emissions](images/Emission_Population.png)
+![State Emissions](images/visualization.png)
 
 ---
 
