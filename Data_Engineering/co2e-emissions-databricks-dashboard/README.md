@@ -1,5 +1,5 @@
 
-# 🇺🇸 CO₂e Emissions Dashboard – United States
+# CO₂e Emissions Dashboard – United States
 
 ## 📊 Project Overview
 This project presents an interactive **Databricks dashboard** analyzing **CO₂ equivalent (CO₂e) emissions across the United States**.
@@ -27,7 +27,7 @@ The dashboard enables decision-makers to quickly identify emission hotspots and 
 ### 🌍 Emissions per Location
 Visualizes CO₂e emissions geographically across the United States.
 
-![Emissions Map](screenshots/emissions_map.png)
+![Emissions Map](images/emissions_map.png)
 
 ---
 
@@ -37,21 +37,21 @@ Analyzes the relationship between population size and emissions per person.
 **Key insight:**  
 Higher population areas tend to have **lower emissions per capita**, indicating economies of scale.
 
-![Emissions vs Population](screenshots/emissions_vs_population.png)
+![Emissions vs Population](images/emissions_vs_population.png)
 
 ---
 
 ### 🏭 Top Emitting Counties
 Highlights the counties with the highest total CO₂e emissions.
 
-![Top Counties](screenshots/top_counties.png)
+![Top Counties](images/top_counties.png)
 
 ---
 
 ### 🧮 Emissions Distribution by State
 Shows the percentage contribution of major states to total US emissions.
 
-![State Emissions](screenshots/dashboard_overview.png)
+![State Emissions](images/dashboard_overview.png)
 
 ---
 
@@ -61,5 +61,3 @@ Shows the percentage contribution of major states to total US emissions.
 - Emissions per person decrease as population increases
 - Geographic visualization reveals clear regional patterns
 
-Data Analyst / Data Engineer  
-[LinkedIn](https://linkedin.com/in/yourprofile)
