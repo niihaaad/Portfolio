@@ -1,12 +1,12 @@
 # Time Series Anomaly Detection with Python
- ## 📌Project Overview
+ ## 👀 Project Overview
 
 This project implements an end-to-end time series anomaly detection pipeline using Python.
 The goal is to identify unusual or abnormal patterns in temporal data that deviate from expected system behavior.
 
 The project follows a real-world data science workflow, from data exploration and feature engineering to multiple anomaly detection techniques and evaluation.
 
- ## 🎯 Problem Statement
+ ## 🧩 Problem Statement
 
 Many real-world systems (web traffic, servers, sensors, energy consumption) generate time series data.
 Unexpected spikes, drops, or pattern changes may indicate issues such as system failures, fraud, or abnormal usage.
@@ -14,7 +14,7 @@ Unexpected spikes, drops, or pattern changes may indicate issues such as system 
 Objective:
 Detect anomalous observations in a univariate time series without relying solely on labeled data.
 
- ## 📊 Dataset Description
+ ## 📉 Dataset Description
 
 **Dataset Characteristics**
 
@@ -32,7 +32,7 @@ Detect anomalous observations in a univariate time series without relying solely
 
     * Noise
 
-**What Is an Anomaly?**
+**What Is an Anomaly ⚠️?**
 
 An anomaly is defined as:
 
@@ -44,7 +44,7 @@ An anomaly is defined as:
 
 This definition guides all modeling and evaluation choices in the project.
 
-## 🧠 Approach
+## 🛣️ Approach
 
 The project is structured into the following steps:
 
@@ -64,7 +64,7 @@ The project is structured into the following steps:
 
   * Differencing to capture changes over time
 
-**3 -Baseline Methods**
+**3- Baseline Methods**
 
   * Z-score based anomaly detection
 
@@ -88,7 +88,7 @@ The project is structured into the following steps:
 
   * Discussion of strengths and limitations
 
-## 🛠️ Technologies Used
+## </> Technologies Used
 
 * Python 3
 
@@ -98,4 +98,4 @@ The project is structured into the following steps:
 
 * scikit-learn
 
-scipy
+* scipy
