@@ -20,7 +20,7 @@ The goal is to analyze **sales performance and profitability** across regions, s
 - Data visualization best practices
 
 ## 📈 Dashboard Overview
-![Executive Overview](executive_overview.png)
+![Executive Overview](Executive Overview.png)
 
 
 
