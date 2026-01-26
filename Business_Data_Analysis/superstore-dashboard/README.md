@@ -22,6 +22,8 @@ The goal is to analyze **sales performance and profitability** across regions, s
 ## 📈 Dashboard Overview
 ![Executive Overview](Executive_Overview.png)
 
+## Tableau Public
+👉 https://public.tableau.com/views/SuperstoreDashboard_17597678240900/ExecutiveOverview?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 
 
