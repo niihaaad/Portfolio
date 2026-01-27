@@ -21,7 +21,7 @@ Ce projet présente un **tableau de bord interactif** permettant d’analyser le
 - Courbes de tendance pour ventes et profits
 
 ### 📈 Dashboard Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Sales_dashboard.png)
 
 ### 🔗 Accès au tableau interactif
 Vous pouvez visualiser le tableau de bord en ligne sur Tableau Public :  
