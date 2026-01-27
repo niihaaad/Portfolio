@@ -3,7 +3,7 @@
 Ce projet présente un **tableau de bord interactif** permettant d’analyser les ventes, profits et quantités au cours des années 2020-2023.  
 
 ### Fonctionnalités
-- Comparaison des ventes 2023 vs 202
+- Comparaison des ventes
 - Analyse des profits et pertes par sous-catégorie
 - Suivi des tendances de ventes et profits au fil du temps
 - Identification des mois avec les meilleures et pires performances
