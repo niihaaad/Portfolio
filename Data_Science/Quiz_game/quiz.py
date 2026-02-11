@@ -1,0 +1,18 @@
+class Quiz:
+    def __init__(self, questions):
+        self.questions = questions
+        self.index = 0
+        self.score = 0
+
+    def get_current_question(self):
+        return self.questions[self.index]
+
+    def check_answer(self, choice_index):
+        if choice_index == self.get_current_question().answer:
+            self.score += 1
+            return True
+        return False
+
+    def next_question(self):
+        self.index += 1
+        return self.index < len(self.questions)

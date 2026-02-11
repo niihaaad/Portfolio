@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "choices": ["Paris", "Lyon", "Marseille", "Toulouse"],
+    "answer": 0
+  },
+  {
+    "question": "Quel langage est utilisé avec Pygame pour créer des jeux ?",
+    "choices": ["Java", "Python", "C#", "Ruby"],
+    "answer": 1
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "choices": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+    "answer": 1
+  },
+  {
+    "question": "Qui a développé le langage Python ?",
+    "choices": ["Bjarne Stroustrup", "Guido van Rossum", "James Gosling", "Linus Torvalds"],
+    "answer": 1
+  },
+  {
+    "question": "En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?",
+    "choices": ["1969", "1958", "1975", "1981"],
+    "answer": 0
+  },
+  {
+    "question": "Quel élément chimique a pour symbole 'O' ?",
+    "choices": ["Or", "Oxygène", "Osmium", "Ozone"],
+    "answer": 1
+  },
+  {
+    "question": "Combien y a-t-il de continents sur Terre ?",
+    "choices": ["4", "5", "6", "7"],
+    "answer": 3
+  },
+  {
+    "question": "Dans un ordinateur, que signifie 'CPU' ?",
+    "choices": ["Central Processing Unit", "Computer Power Unit", "Core Performance Utility", "Control Processing User"],
+    "answer": 0
+  },
+  {
+    "question": "Quel est le jeu vidéo le plus vendu de tous les temps ?",
+    "choices": ["Minecraft", "GTA V", "Tetris", "Mario Kart Wii"],
+    "answer": 0
+  },
+  {
+    "question": "Quel animal est le plus rapide du monde ?",
+    "choices": ["Guépard", "Faucon pèlerin", "Antilope", "Tigre"],
+    "answer": 1
+  }
+]
